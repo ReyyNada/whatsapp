@@ -18,7 +18,7 @@ bot.addCommand(
 	async (message, match) => {
 		const date = new Date()
 		let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+						REXAROBOT
 ╰────────────────╯
 
 ╭────────────────
@@ -94,7 +94,7 @@ bot.addCommand(
 
 		let msg =
 			'```' +
-			`╭═══ LEVANTER ═══⊷
+			`╭═══ REXA ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
 ┃❃│ User : ${message.pushName}
