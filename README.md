@@ -3,6 +3,8 @@
 A simple Whatsapp User bot
 
 ## Setup
+#### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReyyNada/whatsapp)
 
 1.  ### Deploy on Heroku
     1. Click [SCAN](https://levanter.onrender.com/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
